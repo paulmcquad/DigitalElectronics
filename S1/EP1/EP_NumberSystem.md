@@ -1,7 +1,5 @@
 # Introduction: What's a Number System?
 
-You probably already know what a number system is - ever hear of binary numbers or hexadecimal numbers?
-
 Simply put, a number system is a way to represent numbers. We are used to using the base-10 number system, which is also called decimal.
 
 Other common number systems include base-16 (hexadecimal), base-8 (octal), and base-2 (binary).
