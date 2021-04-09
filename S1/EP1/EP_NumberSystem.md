@@ -1,4 +1,6 @@
-# Introduction: What's a Number System?
+# Digital Electronics - S1 EP1 (Number Systems)
+
+## Introduction: What's a Number System?
 
 Simply put, a number system is a way to represent numbers. We are used to using the base-10 number system, which is also called decimal.
 
